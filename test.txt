@@ -1,2 +1,2 @@
-newly added test file for git hub. 
-
+newly added test file for git hub.
+test for merging file into master.
